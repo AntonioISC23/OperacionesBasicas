@@ -1,6 +1,6 @@
-a=int(input("Ingresa un numero: "))
-b=int(input("Ingresa un numero: "))
+a=float(input("Dame un numero: "))
+b=float(input("Dame otro numero: "))
 
 area=a*b
 
-print("area: ",str(area)) 
+print("Area calculada: ",str(area)) 
